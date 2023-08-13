@@ -5,7 +5,7 @@ import React from "react";
 import { CustomButton } from ".";
 import { updateSearchParams } from "@/utils";
 
-const ShowMore = ({ pageNumber, isNext, setLimit }: ShowMoreProps) => {
+const ShowMore = ({ pageNumber, isNext, setLimit }) => {
   //const router = useRouter();
 
   // const handleNavigation = () => {
